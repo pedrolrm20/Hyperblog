@@ -1,2 +1,3 @@
 hola soy pedro rondon
 tengo 24 a;os y este es un archivo para el curso de git
+naci en Venezuela el 20 de septiembre de 1995
