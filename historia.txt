@@ -1,6 +1,6 @@
 hola soy pedro rondon
 tengo 24 a;os y este es un archivo para el curso de git
-naci en Venezuela el 20 de septiembre de 1995
+naci en San Felix, Venezuela el 20 de septiembre de 1995 en el Instituto Clinico Infantil
 
 en el 2012 me gradue de bachillerato en el colegio fatima
 y viaje a margarita con mis amigos mas cercanos del colegio, un viaje que ha sido el mejor hasta ahora
