@@ -1,0 +1,2 @@
+hola soy pedro rondon
+tengo 24 a;os y este es un archivo para el curso de git
